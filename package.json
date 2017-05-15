@@ -1,0 +1,9 @@
+{
+  "name": "ShootEm.io",
+  "version": "0.0.1",
+  "author": "Nufflee",
+  "repository": "https://github.com/Nufflee/ShootEm.io",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
